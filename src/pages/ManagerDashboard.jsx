@@ -1,0 +1,1 @@
+export default function ManagerDashboard() { return <div>Manager</div> }
